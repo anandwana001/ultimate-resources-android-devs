@@ -173,6 +173,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 
 * ##### Data Access Layer
   * [GreenDAO](https://github.com/greenrobot/greenDAO) : Light & fast ORM solution for Android that maps objects to SQLite databases.
+  * [Apollo-Android](https://github.com/apollographql/apollo-android) : A strongly-typed, caching GraphQL client for Android, written in Java.
 
 * ##### Code Generation / Reducing Boilerplate code
   * [AutoValue](https://github.com/google/auto/tree/master/value) : Value types in Java are hard. Well, not hard, but tedious. Google’s AutoValue library makes them much easier. This [article](http://ryanharter.com/blog/2016/03/22/autovalue/) provides nice overview.
@@ -189,6 +190,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Images Loading & Caching
   * [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.
   * [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android.
+  * [Fresco](http://frescolib.org/) : An Android library from Facebook for managing images and the memory they use. 
   
 * ##### Image Processing
   * [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) : AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.
@@ -354,6 +356,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
 * [Android Project Guidelines](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md) from [Buffer](https://buffer.com)
 * [Java Code Styles from Square](https://github.com/square/java-code-styles) : IntelliJ IDEA code style settings for Square's Java and Android projects.
+* [Android Style](https://github.com/Raizlabs/Raizlabs-Android-Style)
 
 #### Experts & Devs to follow  
 

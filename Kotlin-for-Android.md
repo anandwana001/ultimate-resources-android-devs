@@ -7,6 +7,8 @@
  - #### Why Kotlin?
  
    * [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.lppturyxt)
+   * [The career opportunity called Kotlin
+](https://jeroenmols.com/blog/2017/09/13/kotlinopportunity/?utm_source=twitter.com&utm_medium=social&utm_campaign=the-career-opportunity-called-kotlin-htt&utm_content=9879157) 
   
  - #### Learning Kotlin
   
@@ -30,6 +32,11 @@
  - #### Advance stuff
  
    * Exploring Kotlins Hidden Costs: [Part 1](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62) and [Part 2](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-2-324a4a50b70)
+   
+ - #### Migrating to Kotlin
+ 
+   * [Smooth your migration to Kotlin](https://fernandocejas.com/2017/10/20/smooth-your-migration-to-kotlin/) 
+   * [Adopting Kotlin by Udacity](https://engineering.udacity.com/adopting-kotlin-c12f10fd85d1) 
  
  - #### Lessons from Converting App to Kotlin
  
